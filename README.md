@@ -13,6 +13,12 @@
 
 ## Screenshot 
 
+![weather-api-screenshots](assests/images/Screenshot%202023-05-14%20at%202.31.00%20PM.png)
+
+![weather-api-screenshot2](assests/images/Screenshot%202023-05-14%20at%202.31.12%20PM.png)
+
+![weather-api-screenshot3](assets/../assests/images/Screenshot%202023-05-14%20at%202.31.26%20PM.png)
+
 
 
 
