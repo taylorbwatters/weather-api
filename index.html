@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Weather-API</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Weather Dashboard</h1>
+      <form id="weather-form">
+        <input type="text" id="city-input" placeholder="Tempe" required />
+        <button type="submit">Search</button>
+      </form>
+    </header>
+    <main>
+      <section id="current-weather-container">
+        <h2>Current Weather</h2>
+        <div id="current-weather"></div>
+      </section>
+
+      <section id="forecast-container">
+        <h2>5-Day Forecast</h2>
+        <div id="forecast"></div>
+      </section>
+
+      <section id="search-history-container">
+        <h2>Search History</h2>
+        <div id="search-history"></div>
+      </section>
+    </main>
+    <script src="assests/index.js"></script>
+  </body>
+</html>
