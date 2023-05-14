@@ -24,3 +24,4 @@
 
 
 ## Deployment
+[deployed-app](https://taylorbwatters.github.io/weather-api/)
